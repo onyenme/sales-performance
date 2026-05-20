@@ -1,4 +1,4 @@
-https://github.com/onyenme/sales-performance/blob/main/Sales%20Performance%20Dashboard.jpeg
+# https://github.com/onyenme/sales-performance/blob/main/Sales%20Performance%20Dashboard.jpeg
 
 # Project Overview
 This Sales Analysis Report was developed for the purpose of  evaluating overall business performance through analyzing revenue, profitability, customer distribution, product contribution and seasonal sales trends.
