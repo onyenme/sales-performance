@@ -40,11 +40,11 @@ Suggests an average of approximately 1 order per customer  while indicating a po
 
 a. Sales by Category
 
-	•	Technology: 0.84M
+i.	Technology: 0.84M
 
-	•	Furniture: 0.74M
+ii.	Furniture: 0.74M
 
-	•	Office Supplies: 0.72M
+iii.	Office Supplies: 0.72M
 
 Key Insight:
 
@@ -61,11 +61,11 @@ Furniture and Office Supplies slightly underperform compared to Technology which
 
 b. Sales by Segment
 
-	•	Consumer: 1.16M
+i.	Consumer: 1.16M
 
-	•	Corporate: 0.71M
+ii.	Corporate: 0.71M
 
-	•	Home Office: 0.43M
+iii.	Home Office: 0.43M
 
 Key Insight:
 
@@ -86,11 +86,11 @@ c. Monthly Sales Trend
 
 Key observations:
 
-	•	Lower performance in February (~0.06M)
+i.	Lower performance in February (~0.06M)
 
-	•	Significant peak in September (~0.31M)
+ii.	Significant peak in September (~0.31M)
 
-	•	Strong Q4 performance (November ~0.35M, December ~0.33M)
+iii.	Strong Q4 performance (November ~0.35M, December ~0.33M)
 
 The Insight :
 
@@ -104,11 +104,11 @@ Weakness:
 
 The early year sales dip may indicate:
 
-	•	Weak promotional strategy
+i.	Weak promotional strategy
 
-	•	Budget cycle constraints
+ii.	Budget cycle constraints
 
-	•	Reduced demand post-holiday season
+iii.	Reduced demand post-holiday season
 
 Opportunity exists only for Q1 campaign optimization.
 
@@ -117,15 +117,15 @@ d. Top 10 Products by Total Sales
 
 Leading product:
 
-	•	Canon imageCLASS 2200 (~62K)
+i.	Canon imageCLASS 2200 (~62K)
 
 Other strong performers:
 
-	•	Fellowes PB500 Electric Punch (~27K)
+ii.	Fellowes PB500 Electric Punch (~27K)
 
-	•	Cisco TelePresence System (~23K)
+iii. Cisco TelePresence System (~23K)
 
-	•	HON 5400 Series Task Chairs (~22K)
+iv.	HON 5400 Series Task Chairs (~22K)
 
 The Insight:
 
@@ -158,28 +158,28 @@ Weakness:
 
 Margin optimization opportunity through:
 
-	•	Cost control
+i.	Cost control
 
-	•	Pricing adjustments
+ii.	Pricing adjustments
 
-	•	Supplier renegotiation
+iii. Supplier renegotiation
 
-	•	Product mix optimization
+iv.	Product mix optimization
 
 
 # Analytical Techniques Applied :
 
-	•	Revenue segmentation analysis
+a.	Revenue segmentation analysis
 
-	•	Time-series trend evaluation
+b.	Time-series trend evaluation
 
-	•	Category contribution analysis
+c.	Category contribution analysis
 
-	•	Customer segment comparison
+d.	Customer segment comparison
 
-	•	Product performance ranking
+e.	Product performance ranking
 
-	•	Margin evaluation
+f.	Margin evaluation
 
 
 # Strategic Impact:
@@ -199,15 +199,15 @@ v. Connect revenue to profitability.
 
 # Skills Demonstrated :
 
-	•	Sales Analytics
+a.	Sales Analytics
 
-	•	Financial Performance Analysis
+b.	Financial Performance Analysis
 
-	•	Data Modeling
+c.	Data Modeling
 
-	•	Data Visualization
+d.	Data Visualization
 
-	•	Business Intelligence Reporting
+c.	Business Intelligence Reporting
 
 	
 
