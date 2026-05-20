@@ -1,3 +1,4 @@
+
 # Project Overview
 This Sales Analysis Report was developed for the purpose of  evaluating overall business performance through analyzing revenue, profitability, customer distribution, product contribution and seasonal sales trends.
 
@@ -8,7 +9,7 @@ The core objective was to transform transactional sales data into a structured p
 
 i. Power BI
 
-ii. Excel
+ii. Microsoft Excel
 
 iii. SQL
 
