@@ -1,4 +1,4 @@
-
+# Sales Performance Dashboard.jpeg
 # Project Overview
 This Sales Analysis Report was developed for the purpose of  evaluating overall business performance through analyzing revenue, profitability, customer distribution, product contribution and seasonal sales trends.
 
