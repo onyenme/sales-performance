@@ -1,3 +1,5 @@
+<img width="1600" height="925" alt="image" src="https://github.com/user-attachments/assets/3b750637-37e3-4117-a300-a02d3516b070" />
+
 # Sales Performance Analysis
 # Project Overview
 This Sales Analysis Report was developed for the purpose of  evaluating overall business performance through analyzing revenue, profitability, customer distribution, product contribution and seasonal sales trends.
